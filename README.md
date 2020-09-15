@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-helio.santosgjunior@gmail.com-081a28?style=flat-square&logo=Gmail&logoColor=white&link=mailto:helio.santosgjunior@gmail.com)](mailto:helio.santosgjunior@gmail.com)
 
 <p align="left">
-  <img src="images/cover-github.jpg" width="1000" title="nintendo switch">
+  <img src="https://i.ibb.co/dL2hwxR/cover-github.jpg" width="1000" title="nintendo switch">
 </p>
 
 ## Linguagens e Tecnologias que uso diariamente
@@ -19,7 +19,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
-## Habilidades
+## ⚡Habilidades
 
 **Linguagens**
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/heliogsantos/)](https://github.com/heliogsantos/)
